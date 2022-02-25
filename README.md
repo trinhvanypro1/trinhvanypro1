@@ -1,2 +1,1 @@
-- 👋 Hi guy, I'm Trinh Van Y. I'm learning Data Technology in Van Lang University.
-- 👀 I’m interested in cooking, watching film 3D cartoon, self-learning code (Data Analytic, Machine Learning)
+- 👋 Hi guy, I'm Trinh Van Y!!!
